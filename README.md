@@ -3,5 +3,5 @@ A simple Discord bot that can play/manage music and playlists, and reply to user
 
 Bot commands are run by @mentioning the bot.
 
-![Logo](assets/logo.png)
+![Capture](assets/Capture.png)
 
